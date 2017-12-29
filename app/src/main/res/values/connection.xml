@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<string name="url_signin">https://server.howldevelopment.co.za:8086/signin.php</string>-->
+    <string name="url_signin">https://bcofficial.howldevelopment.co.za/signin.php</string>
+    <string name="url_event">https://bcofficial.howldevelopment.co.za/event.php</string>
+    <string name="url_images">https://bcofficial.howldevelopment.co.za/images/</string>
+    <string name="url_settings">https://bcofficial.howldevelopment.co.za/settings.php</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "772354348519",
+    "firebase_url": "https://bcofficialapp.firebaseio.com",
+    "project_id": "bcofficialapp",
+    "storage_bucket": "bcofficialapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772354348519:android:b9c426d525315ff9",
+        "android_client_info": {
+          "package_name": "com.example.howldevelopment.bcofficial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772354348519-rtidvfbtq6qdas2fal84fclffo6f9p20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.howldevelopment.bcofficial",
+            "certificate_hash": "d1f777e90a678f443d484e4d795a1ad07a2137c6"
+          }
+        },
+        {
+          "client_id": "772354348519-791gji66poa9m0o105ot6ji6r7dlng0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRFixrsFW-f3AXrH9ViZO8c4PoxGaJVe4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772354348519-791gji66poa9m0o105ot6ji6r7dlng0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
