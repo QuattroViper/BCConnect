@@ -1,10 +1,11 @@
 # BCConnect
 BC Connect app that were going ging to be used by the SRC.
 
-I created this Android application that will server as a bridge between the students and the SRC (student representative council) at The Belgium Campus.
+I created this Android application that will serve as a bridge between the students and the SRC (student representative council) at The Belgium Campus.
 
 The Backend for this application is written in PHP. 
-I personally DO NOT recommend this way of creating backend APIs for any application. I did however make use of it because I was new to the technology and needed somewhere to start learning how REST APIs work. 
+I personally DO NOT recommend this way of creating backend APIs for any application. 
+I did however make use of it because I was new to the technology and needed somewhere to start learning how REST APIs work. 
 
 My recommended way of creating API Endpoints, is with ASP.NET or with NodeE.js with the Express.js Framework. 
 
